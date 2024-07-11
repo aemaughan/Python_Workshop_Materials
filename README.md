@@ -29,4 +29,4 @@ Day 2 consists of 4 sub-modules:
 
 ---
 All workshop materials and planning were contributed to by:  
-Sinclair Combs, Alex Gonzales, Annalise Maughn, Dina Liacopoulos, Ben Payton and Isaac Spackman
+Sinclair Combs, Alex Gonzales, Annalise Maughan, Dina Liacopoulos, Ben Payton and Isaac Spackman
